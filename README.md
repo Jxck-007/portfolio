@@ -3,10 +3,6 @@
 A Neon-themed (CyberPunk Vibe) personal portfolio website showcasing my skills in **Backend Development, Automation, APIs, and Firebase**.
 
 ## 🚀 Tech Stack
-
-- 🐍 Python
-- ☁️ Firebase (Firestore, Authentication)
-- 🔗 APIs (REST)
 - 💻 HTML, CSS (Neon Cyberpunk theme)
 - 🛠️ Git & GitHub
 
